@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar_Soru3", "Koleksiyonlar_Soru3.csproj", "{646AEDA9-1E8D-4AF6-8F39-885ED55E2AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646AEDA9-1E8D-4AF6-8F39-885ED55E2AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646AEDA9-1E8D-4AF6-8F39-885ED55E2AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646AEDA9-1E8D-4AF6-8F39-885ED55E2AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646AEDA9-1E8D-4AF6-8F39-885ED55E2AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7343576B-A59E-4BB2-90AF-E4FDBF8AC8A2}
+	EndGlobalSection
+EndGlobal
